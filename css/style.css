@@ -1,0 +1,22 @@
+h1 {
+    
+    color: red;
+    font-size: 10em;
+    font-family: 'Playfair Display', serif;
+    font-style: 900;
+}
+
+h3 {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-style: 400;
+    font-size: 1em;
+    
+}
+.parallax-layer
+      { position:absolute; }
+
+.parallax-viewport {
+    position: relative;  
+    overflow: hidden;
+}
